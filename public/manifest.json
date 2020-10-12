@@ -1,0 +1,25 @@
+{
+  "short_name": "Happy - OP",
+  "name": "Happy - Ouro Preto",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "240x74"
+    },
+    {
+      "src": "landing.png",
+      "type": "image/png",
+      "sizes": "1123x723"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
