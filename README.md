@@ -1,7 +1,7 @@
 # Happy
 ## Leve felicidade para o mundo
 
-Este projeto foi desenvolvido durante o evento NextLevelWeek#03. Trata-se de um sistema online para conectar quem deseja mudar o dia de muitas crianças com orfanatos. O sistema foi desenvolvido para atuar na região de Ouro Preto - MG.
+Este projeto foi desenvolvido durante o evento NextLevelWeek#03. Trata-se de um sistema online para conectar quem deseja mudar o dia de muitas crianças com orfanatos da sua região. O sistema foi desenvolvido para atuar na região de Ouro Preto - MG.
 
 ### Techs
 
