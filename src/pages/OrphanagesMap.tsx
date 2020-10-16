@@ -8,14 +8,7 @@ import mapMarker from '../images/map-marker.svg';
 
 import '../styles/pages/orphanage-map.css'
 import 'leaflet/dist/leaflet.css'
-
-const mapIcon = Leaflet.icon({
-    iconUrl: mapMarker,
-    
-    iconSize: [58,68],
-    iconAnchor: [29, 68],
-    popupAnchor: [170, 2]
-})
+import mapIcon from '../util/mapIcon';
 
 function OrphanagesMap() {
     const MAP_BOX_TOKEN = process.env.REACT_APP_MAPBOX_TOKEN;
